@@ -1,0 +1,14 @@
+
+{
+  "name": "perfect-places",
+  "version": "1.0.0",
+  "description": "A minimalist Markdown-based journal",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0"
+  }
+}
